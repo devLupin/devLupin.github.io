@@ -2,8 +2,8 @@ title:              Lupin's Blog
 email:              lupin.devv@gmail.com
 description:        
 author:             Lupin
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+baseurl:            "/blog"
+url:                "https://devlupin.github.io"
 
 # Social Profiles
 twitter_username:   
