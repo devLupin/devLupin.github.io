@@ -2,7 +2,7 @@ title:              Lupin's Blog
 email:              lupin.devv@gmail.com
 description:        
 author:             Lupin
-baseurl:            "/devlupin.github.io"
+baseurl:            ""
 url:                "https://devlupin.github.io"
 
 # Social Profiles
