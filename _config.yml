@@ -6,11 +6,7 @@ baseurl:            "/devlupin.github.io"
 url:                "https://devlupin.github.io"
 
 # Social Profiles
-twitter_username:   
 github_username:    devLupin
-facebook_username:  
-instagram_username:  
-linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:    # out your google-analytics code
