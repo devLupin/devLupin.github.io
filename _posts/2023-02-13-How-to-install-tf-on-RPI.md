@@ -12,14 +12,14 @@ Raspberry PI(RPI)에 tensorflow를 설치하려면 생각보다 복잡하다. <b
 <hr>
 
 - [RPI 공식홈페이지](https://www.raspberrypi.com/software/)에서 RPI Imager를 설치한다.
-<p align="center"><img src="../img/posts/rpi-1.JPG" height="200px" width="300px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/33558083/218372952-c0ca82ad-4a01-4776-8054-3e9face90c13.JPG" height="200px" width="300px"></p>
 
 - 원하는 OS 버전, 저장소를 선택한다.
   - 본인은 64-bit 선택
   - 현 게시물은 64-bit에 초점을 맞춰 진행함.
 
 - 버전과 OS를 선택하면 그림과 같이 톱니 모양의 아이콘이 생성된다.
-<p align="center"><img src="../img/posts/rpi-2.JPG" height="200px" width="300px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/33558083/218372957-82769388-3ac7-40ae-b9e9-bd687dd71341.JPG" height="200px" width="300px"></p>
 
 - 톱니 아이콘을 눌러 **SSH 사용**과 **사용자 이름 및 비밀번호 설정**을 본인이 원하는대로 지정한다.
   - 이걸 해야 키보드 연결하는 귀찮음을 피할 수 있음.
@@ -92,7 +92,7 @@ Raspberry PI(RPI)에 tensorflow를 설치하려면 생각보다 복잡하다. <b
   - 많은 기술블로그에서 wget 커맨드를 이용해 설치를 했는데, 내용을 복사해서 붙여넣어도 무관하다.
   - 아래 내용의 3, 4번 라인을 복사해 터미널에 그대로 붙여넣는다.
     - 1번은 주석이라서 복사 안해도 됨.
-  <p align="center"><img src="../img/posts/rpi-3.JPG" height="200px" width="700px"></p>
+  <p align="center"><img src="https://user-images.githubusercontent.com/33558083/218372960-4e4dbcd4-beb2-4959-aac0-b3be1816ef47.JPG" height="200px" width="700px"></p>
   - 나와 같이 python3.9에 tensorflow2.9.0을 64bit 운영체제에 설치하고자 한다면 복붙하세용.
   
   ```bash
@@ -100,7 +100,7 @@ Raspberry PI(RPI)에 tensorflow를 설치하려면 생각보다 복잡하다. <b
   
   $ echo Download finished.
   ```
-  <p align="center"><img src="../img/posts/rpi-4.JPG" height="100px" width="500px"></p>
+  <p align="center"><img src="https://user-images.githubusercontent.com/33558083/218372964-71e56b7f-31c1-49bb-b919-dc25d4d21a87.JPG" height="100px" width="500px"></p>
 
 <br/>
 
