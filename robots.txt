@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://devlupin.github.io/sitemap.xml
