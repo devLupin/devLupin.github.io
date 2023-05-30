@@ -5,10 +5,6 @@ title: "Portfolio"
 date: 2023-04-06
 ---
 
-
-문제 풀이 과정을 공유드린다. <br/>
-[문제 출처](https://school.programmers.co.kr/learn/courses/30/lessons/42840) <br/><br/>
-
 - 현재 이직 준비 중 <br/>
 - 3년 2개월의 경력 보유
   - 1년 4개월은 SW 개발, 나머지는 AI 개발 업무 진행
