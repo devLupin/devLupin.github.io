@@ -3,7 +3,8 @@ layout: default
 title: About
 ---
 
-I am an AI engineer with experience in multimodal data including images and audio. Currently, I am focusing on researching the lightweighting of AI models.
+I am an AI engineer. \n
+Nowadays, I am researching the light-weight architecture.
 
 <img src="/images/me.jpg" class="right" />
 **Hyuntaek Lim** (24 April 1995 – )
