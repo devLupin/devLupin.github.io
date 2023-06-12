@@ -21,7 +21,7 @@
 title: Lupin's development BLOG
 email: lupin.devv@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi there! This is Lupin.\n
+  Hi there! This is Lupin. <br/>
   This blog is about solving algorithm problems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://devLupin.github.io" # the base hostname & protocol for your site, e.g. http://example.com 

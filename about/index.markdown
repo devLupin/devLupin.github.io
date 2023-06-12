@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-I am an AI engineer. \n
+I am an AI engineer. <br/>
 Nowadays, I am researching the light-weight architecture.
 
 <img src="/images/me.jpg" class="right" />
