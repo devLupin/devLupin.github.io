@@ -41,6 +41,7 @@ date: 2024-01-13
 # 3. 전체 코드
 <hr>
 
+{% highlight cpp %}
 #include <iostream>
 #include <vector>
 #include <queue>
@@ -106,6 +107,7 @@ int main(void) {
 
 	return 0;
 }
+{% endhighlight %}
 
 <br/>
 
