@@ -17,5 +17,5 @@ Nowadays, I am researching the light-weight architecture.
 
 ### Education
 
-- B.S, Chosun University, Mar 2014-Feb 2020
-- M.S, Chonnam National University, Mar 2021 - 
+- B.S, Chosun University, Mar 2014 - Feb 2020
+- M.S, Chonnam National University, Mar 2021 - Feb 2024 
