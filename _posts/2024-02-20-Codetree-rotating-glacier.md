@@ -45,9 +45,13 @@ date: 2024-02-20
 
 - 이 문제의 핵심은 빙하의 회전이다.
   - 쉽게 말해 아래와 같이 덩어리를 회전시키면 된다.
-    <p align="center"><img src="https://github.com/devLupin/devLupin.github.io/blob/master/images/20240220/1.png?raw=true"></p>
+
+    <img src="../images/20240220/1.png" alt="drawing" width="400"/>
+
   - 나는 값을 하나 임시 저장하고 나머지를 밀어내는 방식을 취했다.
-    <p align="center"><img src="https://github.com/devLupin/devLupin.github.io/blob/master/images/20240220/2.png?raw=true"></p>
+    
+	<img src="../images/20240220/2.png" alt="drawing" width="400"/>
+
   - 원소를 회전시키는 것이 아니라 덩어리를 회전시키는 것에 주의하자
 
 - `dx/dy` 테크닉
